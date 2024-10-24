@@ -1,4 +1,5 @@
 🌍 Global Temperature Analysis and Future Prediction
+
 Project Overview
 This project involves an exploratory data analysis (EDA) of a global temperature dataset,
 followed by future temperature prediction using a polynomial regression model and a simple neural network. 
